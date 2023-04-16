@@ -16,9 +16,10 @@ dependencies = [
     "pandas",
     "matplotlib",
     "seaborn",
-    "typer",
+    "typer[all]",
     "black",
     "pre-commit",
+    "pyarrow",
 ]
 
 [project.urls]

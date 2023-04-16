@@ -230,3 +230,4 @@ pyrightconfig.json
 .python-version
 historical-data/
 data/
+output/
